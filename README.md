@@ -32,7 +32,7 @@ Antes de ejecutar el script, asegúrate de tener instalado:
 Para escanear una red completa (se recomienda ejecutar con privilegios de administrador para la detección de versiones):
 python "proyecto 1 (Script deteccion con Nmap).py" 192.168.1.0/24
 
-##📊 Resultados
+## 📊 Resultados
 Al finalizar, el script genera automáticamente un archivo llamado auditoria_final.html. Este incluye:
 
 Dashboard: Resumen de hosts activos y servicios encontrados.
@@ -41,5 +41,5 @@ Análisis de Riesgos: Listado de hallazgos basados en la exposición de puertos 
 
 Banners: Información técnica recuperada directamente de los servicios.
 
-##⚖️ Aviso Legal
+## ⚖️ Aviso Legal
 Este proyecto fue creado con fines educativos y de auditoría ética. El uso de esta herramienta contra redes sin autorización previa es responsabilidad exclusiva del usuario. El autor no se hace responsable por el uso indebido de este software.
